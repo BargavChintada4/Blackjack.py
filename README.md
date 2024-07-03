@@ -9,3 +9,19 @@ When you receive your first two cards, you may either “stand” or “hit.” 
 If you are closer to 21 than the dealer, you win and are paid an amount equal to your original wager. If your hand is less than the dealer’s, you lose. If the dealer’s hand “busts” or “breaks,” you win as well. Ties are a standoff or “push” and your bet remains on the table.
 
 If your initial two cards total 21, any Ace with a 10, Jack, Queen, or King, you have a Blackjack. Blackjack is paid either 6 to 5 or 3 to 2 depending on the type of Blackjack you are playing.
+
+Understanding the Rules of Blackjack:
+
+• The goal of the game is to get a hand of cards that is as close to 21 as possible without going over.
+
+• Each player is dealt two cards. The dealer also receives two cards, but one of them is face down.
+
+• Cards 2 through 10 are worth their face value. Face cards (Jack, Queen, King) are worth 10, and an Ace can be worth 1 or 11.
+
+• Players can choose to "hit" (receive another card) or "stand" (keep their current hand).
+
+• If a player's hand exceeds 21, they "bust" and lose the game.
+
+• Once all players have finished their turn, the dealer reveals their face-down card and hits until their hand is worth at least 17.
+
+• If the dealer's hand exceeds 21, all remaining players win. Otherwise, players with a higher hand than the dealer win.
